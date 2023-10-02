@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Arbitrage Calculator",
+  "version": "3.0",
+  "description": "Calculate stakes and payouts for 2/3 odds",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab", "storage"]
+}
